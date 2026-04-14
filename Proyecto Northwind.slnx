@@ -2,6 +2,18 @@
   <Folder Name="/1.Presentation/">
     <Project Path="Presentation/Presentation.csproj" />
   </Folder>
+<<<<<<< HEAD
+  <Folder Name="/2.Domain/">
+    <Project Path="Domain/Domain.csproj" Id="e27f2c06-863f-46d0-ae8d-a8ba2dbe374e" />
+  </Folder>
+  <Folder Name="/3.DataAccess/">
+    <Project Path="DataAccess/DataAccess.csproj" Id="62195d26-daa8-4cd1-9ca5-15b82a9a3fcd" />
+  </Folder>
+  <Folder Name="/4.Unitest/">
+    <Project Path="Unitest1/Unitest1.csproj" Id="711ef353-53df-4f28-b0fa-0d2174686b18" />
+  </Folder>
+=======
   <Folder Name="/2.Domain/" />
   <Folder Name="/3.DataAccess/" />
+>>>>>>> 4565a0053d63799b7d892403912eb94de3126d77
 </Solution>
